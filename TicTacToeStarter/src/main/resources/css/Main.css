@@ -1,0 +1,48 @@
+#pane {
+
+    -fx-background-image: url(../images/realistic.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: center;
+    -fx-background-size: 450 500;
+
+}
+
+Label{
+    -fx-text-fill: white;
+}
+
+#btnNewGame{
+    -fx-opacity: 0.8;
+    -fx-border-radius: 40;
+    -fx-pref-height: 35;
+    -fx-pref-width: 80;
+}
+GameButton{
+    -fx-opacity: 0.8;
+    -fx-border-color: transparent;
+    -fx-padding: 0;
+    -fx-border-radius: 10;
+
+}
+
+#btnPlay {
+    -fx-background-image:  url(../images/background.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-size: 98.4 85;
+    -fx-padding: 0;
+
+}
+
+#mainAnchorPane {
+    -fx-background-image: url(../images/main-background-image.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: center;
+    -fx-background-size: 600 400;
+
+}
+
+
+
