@@ -1,6 +1,12 @@
 # Tic Tac Toe Game
 
-Welcome to the **Tic Tac Toe** game repository! This project implements the classic Tic Tac Toe game using **JavaFX** for a graphical user interface (GUI). The game allows you to play against another player or a computer AI.
+# Tic Tac Toe Game
+
+![Tic Tac Toe Main menu](https://e.top4top.io/p_3205k03ad1.png)
+![Tic Tac Toe Game Boarder](https://j.top4top.io/p_3205ibleu1.png)
+
+
+Welcome to the Tic Tac Toe game!
 
 ## Table of Contents
 
