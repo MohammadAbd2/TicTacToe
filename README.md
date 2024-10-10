@@ -1,7 +1,5 @@
 # Tic Tac Toe Game
 
-# Tic Tac Toe Game
-
 ![Tic Tac Toe Main menu](https://e.top4top.io/p_3205k03ad1.png)
 
 Welcome to the Tic Tac Toe game!
