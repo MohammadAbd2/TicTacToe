@@ -3,8 +3,6 @@
 # Tic Tac Toe Game
 
 ![Tic Tac Toe Main menu](https://e.top4top.io/p_3205k03ad1.png)
-![Tic Tac Toe Game Boarder](https://j.top4top.io/p_3205ibleu1.png)
-
 
 Welcome to the Tic Tac Toe game!
 
@@ -30,6 +28,7 @@ Welcome to the Tic Tac Toe game!
 
 - **Java**: The primary programming language used for the game logic.
 - **JavaFX**: The framework used for building the GUI.
+![Tic Tac Toe Game Boarder](https://j.top4top.io/p_3205ibleu1.png)
 
 ## Installation
 
