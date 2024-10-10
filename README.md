@@ -35,8 +35,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/MohammadAbd2/TicTacToe.git
 
 Navigate to the project directory:
-```bash
-cd TicTacToe
+	```bash
+	cd TicTacToe
 
 
 Ensure you have JDK 11 or higher installed. You can download it from Oracle's website or use a package manager.
